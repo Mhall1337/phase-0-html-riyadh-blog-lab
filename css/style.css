@@ -23,7 +23,10 @@ body {
   padding: 20px;
   background: rgba(255,255,255,.85);
 }
-
+.h3{
+  text-decoration: underline;
+  
+}
 h1, h2 {
   font-family: 'Gabriela', serif;
   color: #fff;
